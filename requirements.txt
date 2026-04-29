@@ -1,2 +1,3 @@
-Flask
-gunicorn
+flask
+ua-parser
+user-agents
